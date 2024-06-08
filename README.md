@@ -17,23 +17,23 @@ I successful acheived this gallery by using html and css. The html file contains
 
 To access the gallery, just open the `index.html` file in the web. 
 
-# Solution to challenge one
+## Solution to challenge one
 
 ## Overvew
 This challenge is about to find if there is a contiguos subarray that sums up to the target sum. Return true if such array exists, else retun false.
 
-## solution
+### solution
 To solve this challenge, I used two pointers, i and counter. One to strat counting while finding the sum and other to count starting when the sum is being greater than the target sum. Here we take the current sum minus the first value in the array. 
 
 ### Usage
 You can simply access this file by opening challenge folder in this repo and then open `arrayMap.js` file.
 
-# Solution to challenge
+## Solution to challenge two
 
-## Overview
+### Overview
 This challenge is about string transformation. Return reversed string or ascii code of each character based on the conditions. If the length of the string is divisible by three then it return reversed string. If it is divisible by 5, then it return ascii code of each character of the string. Last, if it is divisible by 3 and five or 15 then return ascii codes af eacher character of reversed string.
 
-## Solution
+### Solution
 
 To solve this, it is just to apply the specified transformation based on length of the input string.
 
