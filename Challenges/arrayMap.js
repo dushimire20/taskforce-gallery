@@ -1,5 +1,4 @@
-function testArrayConteguous(arr, target) {
-    let i = 0;
+function challenge1(arr, target) {
     let sum = 0;
 
     for ( let count = 0; count < arr.length; count ++){
@@ -21,4 +20,4 @@ function testArrayConteguous(arr, target) {
 
 const arr = [4,2,7,1,9,5];
 const target = 10;
-console.log(testArrayConteguous(arr,target));
+console.log(challenge1(arr,target));

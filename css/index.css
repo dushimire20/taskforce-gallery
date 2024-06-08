@@ -6,7 +6,7 @@ body {
     height: 100%;
     text-align: center;
     padding: 0;
-    margin: 3%;
+    margin: 3% 0%;
 }
 
 
@@ -74,15 +74,15 @@ body {
  .link a {
     color:rgb(0, 225, 255);
     font-family: poppins;
-    font-size: 16px;
-    line-height: 8.02px;
+    font-size: 14px;
+    line-height: 4.02px;
     text-align: center;
 }
 
 .container .link i{
     color: aqua;
-    font-size: 10px;
-    line-height: 8.02px;
+    font-size: 8px;
+    line-height: 4.02px;
     
     
 }
