@@ -4,9 +4,9 @@
 This project is display my skills in html, css and javascript. It is composed by an interactive gallery and two javascript challenges. 
 
 ## Table of content
--[An interactive galley](# An interactive gallery)
--[Solutions to challenge one](Solutions to challenge one)
--[Solutions to challenge two](Solutions to challenge two)
+-[An interactive galley](###An-interactive-allery)
+-[Solutions to challenge one](###Solutions-to-challenge-one)
+-[Solutions to challenge two](###Solutions-to-challenge-two)
 
 ## An interactive gallery
 
