@@ -3,12 +3,6 @@
 ## Overview
 This project is display my skills in html, css and javascript. It is composed by an interactive gallery and two javascript challenges. 
 
-
-## Table of content
--[An interactive galley](#An-interactive-allery)
--[Solutions to challenge one](#Solutions-to-challenge-one)
--[Solutions to challenge two](#Solutions-to-challenge-two)
-
 ## An interactive gallery
 
 I successful acheived this gallery by using html and css. The html file contains the structure of the gallery including images, and text overlays. I used CSS to acheive the interactivity and functionality of the gallery.
